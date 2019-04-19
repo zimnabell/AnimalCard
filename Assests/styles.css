@@ -1,0 +1,41 @@
+/* Code By ZimnaBell */
+html {
+   font-family: Arial,  Helvatica, sans-serif;
+}
+
+.container {
+    width: 300px; 
+    padding:10px; 
+    border:1px solid #ccc;
+    box-shadow: 5px 5px #d3d3d3;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.picture {
+    width: 300px;
+}
+
+#card {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.facts {
+    list-style: none;
+    padding: 0px;
+    
+}
+
+.label {
+    font-weight: bold;
+    
+}
