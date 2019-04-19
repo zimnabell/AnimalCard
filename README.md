@@ -2,4 +2,4 @@
 </br></br>
 	This repository is for the Animal Trading Card Project, which is part of the Udacity Front-End Web Developer Nanodegree program
 
-<h3><!-- Code By ZimnaBell --></h3>
+<h3>Hello World!</h3>
